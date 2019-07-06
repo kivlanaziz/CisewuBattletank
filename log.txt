@@ -1,0 +1,5 @@
+26/04/2017 
+	-Hapus komen & nambah header levels
+27/04/2017 
+	-Menghilangkan beberapa variabal yang tidak perlu, kecuali di modul player
+	-
